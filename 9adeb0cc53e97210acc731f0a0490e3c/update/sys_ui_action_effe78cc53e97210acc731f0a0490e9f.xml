@@ -7,6 +7,8 @@
 
 }]]></client_script_v2>
         <comments/>
+
+        <!-- 1st comment from windsurf to git -->
         <condition/>
         <form_action>true</form_action>
         <form_button>true</form_button>
