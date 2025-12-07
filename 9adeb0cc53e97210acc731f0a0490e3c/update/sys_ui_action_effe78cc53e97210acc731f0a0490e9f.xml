@@ -4,7 +4,8 @@
         <active>true</active>
         <client>true</client>
         <client_script_v2><![CDATA[function onClick(g_form) {
-
+    g_form.setValue('priority', '1');
+    return true;
 }]]></client_script_v2>
         <comments/>
 
